@@ -1,7 +1,7 @@
 
 # 双飞翼布局
 
-此布局的需求同[圣杯布局](https://hushuaiace.fun/qq546002574.github.io/#/holy-grail-layout)一样，都为两边等宽，中间自适应的三栏布局，源自淘宝UED
+此布局的需求同[圣杯布局](http://hushuaiace.fun/qq546002574.github.io/#/holy-grail-layout)一样，都为两边等宽，中间自适应的三栏布局，源自淘宝UED
 
 <vuep template="#double-wing-layout"></vuep>
 

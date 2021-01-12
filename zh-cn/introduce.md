@@ -86,6 +86,6 @@ input:focus + .popTips{
 
 为了保持文档中示例的一致性，文档中所有示例配色均参考使用网易严选设计规范。
 
-![color](https://hushuaiace.fun/qq546002574.github.io/static/colors_guide.jpeg)
+![color](http://hushuaiace.fun/qq546002574.github.io/static/colors_guide.jpeg)
 
 !> 文档中的示例样式兼没有添加浏览器前缀做兼容，建议使用Chrome，Firefox等主流浏览器访问，在生产环境中请使用[Autoprefixer](https://www.npmjs.com/package/autoprefixer)做兼容处理。

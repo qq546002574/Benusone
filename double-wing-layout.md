@@ -1,7 +1,7 @@
 
 # Double wing layout
 
-The requirements of this layout are the same as [Holy grail layout](https://hushuaiace.fun/qq546002574.github.io/#/holy-grail-layout) : three-column with two sides are equally wide and the adaptive middle part. Soucring from Taobao UED. 
+The requirements of this layout are the same as [Holy grail layout](http://hushuaiace.fun/qq546002574.github.io/#/holy-grail-layout) : three-column with two sides are equally wide and the adaptive middle part. Soucring from Taobao UED. 
 
 <vuep template="#double-wing-layout_tlp"></vuep>
 

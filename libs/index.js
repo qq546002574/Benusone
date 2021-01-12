@@ -2,8 +2,8 @@
  * Docsify config
  */
 gitalkConfig = {
-  clientID: "9388931e4a25fdbeb4fd",
-  clientSecret: "3933f84912eecdcadd74138c575116941a60524e",
+  clientID: "9d82979d154db77f6c80",
+  clientSecret: "ba50a698ccca72a3c23056794883ca591eba80c3",
   repo: "qq546002574.github.io",
   owner: "qq546002574",
   admin: ["qq546002574"],
@@ -16,7 +16,7 @@ gitalkConfig = {
 };
 window.$docsify = {
   name: "Benusone",
-  repo: "https://github.com/qq546002574/qq546002574.github.io",
+  repo: "https://github.com/qq546002574/Benusone",
   auto2top: true,
   loadNavbar: true,
   loadSidebar: true,
@@ -39,7 +39,7 @@ window.$docsify = {
     function(hook, vm) {
       hook.beforeEach(function(html) {
         var url =
-          "https://github.com/qq546002574/qq546002574.github.io/blob/master/" +
+          "https://github.com/qq546002574/Benusone/blob/master/" +
           vm.route.file;
         var editHtml = "[📝 EDIT DOCUMENT](" + url + ")\n";
 
